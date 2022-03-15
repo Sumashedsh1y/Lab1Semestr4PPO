@@ -6,8 +6,9 @@
 \usepackage{times}
 \usepackage{amsmath}
 \usepackage{longtable}
-\usepackage { multicol } 
+\usepackage{multicol} 
 \usepackage{array}
+\usepackage{nccmath}
 
 \setlength { \columnsep } { 1cm }
 
@@ -20,7 +21,7 @@
 \pagestyle{fancy}
 \fancyhead{}
 \fancyhead[LO]{\footnotesize\textsf{7920}}
-\fancyhead[CO]{\footnotesize\textsf{J. Appl. Phys., Vol. 94, No. 12, 15 December 2003\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad}} 
+\fancyhead[CO]{\footnotesize\textsf{J. Appl. Phys., Vol. 94, No. 12, 15 December 2003\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad}} 
 \fancyhead[RO]{\footnotesize\textsf{Fellah }\textit{et al.} }
 \fancyfoot{}
 \renewcommand{\headrulewidth}{0pt}
@@ -91,12 +92,15 @@ for all measured incident angles.}}}
 
 \textnormal{\linespread{0.5}{\normalsize{The inverse problem is to find values of parameters $\phi$
 and $\alpha_\infty$ , which minimize the function}}}
+\\[-0.3ex]
+\begin{fleqn}
 \begin{small}
-\begin{align}
-	U''=F(\phi,\alpha_\infty)\sum_{\theta_{i}}\sum_{t_{i}}[p^r(x,\theta_i,t_i) \nonumber \\
-	-r(\theta_{i},t_{i})*p^i(x,\theta_i,t_i)]^2 \tag{30}
-\end{align}
+\begin{align*}
+	{\qquad}U(\phi,\alpha_\infty)&=\sum_{\theta_{i}}\sum_{t_{i}}[p^r(x,\theta_i,t_i) \nonumber \\
+	&-r(\theta_{i},t_{i})*p^i(x,\theta_i,t_i)]^2 \tag{30}
+\end{align*}
 \end{small}
+\end{fleqn}
 \textnormal{\linespread{0.5}{\normalsize{where $p^r(x,\theta_i,t_i)$ represents the discrete set of values of the
 experimental reflected signal for different incident angles $\theta_i$ ,$r(\theta_i,t_i)$ is the reflection coefficient at the first interface, and
 $p^i(x,\theta_i,t_i)$ is the experimental incident signal. The term
@@ -117,9 +121,12 @@ Electronic interference was removed by 1000 acquisition averages.
 The experimental setup is shown in Fig. 4. The duration
 of the signal plays an important role$:$ its spectrum
 must verify the condition of the high frequency approximation
-referred to in Sec. IV.\\}}}
-
+referred to in Sec. IV.\\}}} 
+\\[0.3ex]
+\parindent 0em
+\vspace{-0.5mm}
 {\footnotesize{TABLE II. Reconstructed values of porosity and tortuosity by solving the inverse problem.}}
+\\[-3ex]
 {\setlength{\extrarowheight}{3pt}
 \begin{center}
 	\begin{tabular}{cccc}

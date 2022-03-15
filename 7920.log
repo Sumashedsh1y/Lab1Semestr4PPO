@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.2)  16 MAR 2022 01:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.2)  16 MAR 2022 01:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -248,8 +248,12 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \backup@length=\skip68
 \ar@cellbox=\box103
 )
+(D:\MiKTeX\tex/latex/ncctools\nccmath.sty
+Package: nccmath 2006/01/20 v1.3 Additional Math Commands (NCC)
+\NCC@fracrulewidth=\dimen163
+)
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-0.
+1.
 
 (D:\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -261,31 +265,31 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 ) (7920.aux)
 \openout1 = `7920.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 (D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count287
-\scratchdimen=\dimen163
+\scratchdimen=\dimen164
 \scratchbox=\box105
 \nofMPsegments=\count288
 \nofMParguments=\count289
 \everyMPshowfont=\toks26
 \MPscratchCnt=\count290
-\MPscratchDim=\dimen164
+\MPscratchDim=\dimen165
 \MPnumerator=\count291
 \makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks27
@@ -300,50 +304,55 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 <g1.jpg, id=1, 332.442pt x 245.718pt>
 File: g1.jpg Graphic file (type jpg)
 <use g1.jpg>
-Package pdftex.def Info: g1.jpg  used on input line 34.
+Package pdftex.def Info: g1.jpg  used on input line 35.
 (pdftex.def)             Requested size: 246.11638pt x 181.91095pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-<g3.jpg, id=2, 354.123pt x 274.626pt>
+<g3.jpg, id=2, 354.123pt x 272.81924pt>
 File: g3.jpg Graphic file (type jpg)
 <use g3.jpg>
-Package pdftex.def Info: g3.jpg  used on input line 67.
-(pdftex.def)             Requested size: 233.8098pt x 181.32495pt.
+Package pdftex.def Info: g3.jpg  used on input line 68.
+(pdftex.def)             Requested size: 233.8098pt x 180.13202pt.
 <g2.jpg, id=3, 325.81725pt x 248.72925pt>
 File: g2.jpg Graphic file (type jpg)
 <use g2.jpg>
-Package pdftex.def Info: g2.jpg  used on input line 72.
+Package pdftex.def Info: g2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 238.73318pt x 182.2502pt.
 
-Overfull \hbox (4.6168pt too wide) in paragraph at lines 72--76
+Overfull \hbox (4.6168pt too wide) in paragraph at lines 73--77
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--76
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--131
 
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-38.
+45.
 (D:\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 ) [1{C:/Users/1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
@@ -352,16 +361,16 @@ File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
  <./g1.jpg> <./g3.jpg> <./g2.jpg>] (7920.aux) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 123 ({)
+### simple group (level 1) entered at line 130 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3681 strings out of 478659
- 56278 string characters out of 2862418
- 384712 words of memory out of 3000000
- 21745 multiletter control sequences out of 15000+600000
+ 3792 strings out of 478659
+ 57777 string characters out of 2862418
+ 386419 words of memory out of 3000000
+ 21852 multiletter control sequences out of 15000+600000
  418763 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,62p,224b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,62p,224b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
 {D:/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/MiKTeX/fonts/type1/p
 ublic/amsfonts/cmextra/cmex9.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
 10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/MiKTeX/fonts/typ
@@ -374,7 +383,7 @@ lic/amsfonts/cm/cmr9.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D
 /amsfonts/cm/cmsy9.pfb><D:/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/MiKTe
 X/fonts/type1/urw/times/utmb8a.pfb><D:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
 <D:/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 7920.pdf (1 page, 267092 bytes).
+Output written on 7920.pdf (1 page, 266706 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
